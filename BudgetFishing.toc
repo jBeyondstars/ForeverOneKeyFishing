@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Forever OneKey Fishing
+## Notes: Loader for the BudgetFishing installation folder.
+## Version: 0.1.0
+## SavedVariables: ForeverOneKeyFishingDB
+
+ForeverOneKeyFishing.lua

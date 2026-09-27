@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Forever OneKey Fishing
+## Notes: One physical key to cast Fishing and interact with the bobber.
+## Version: 0.1.0
+## SavedVariables: ForeverOneKeyFishingDB
+
+ForeverOneKeyFishing.lua
